@@ -13,7 +13,6 @@
     'category': 'Operations/Inventory',
     'version': '14.0.1',
     'license': 'LGPL-3',
-    'price': 7,
     'currency': 'USD',
     'support': "ondevelop.sa@gmail.com",
     'depends': ['base', 'stock'],
