@@ -4,7 +4,7 @@
 # Part of onDevelop.SA. See LICENSE file for full copyright and licensing details.
 {
     'name': "Pick Serial Numbers Massive Update",
-    'summary': """Massive Upload the Lot/ Serial Number of the stock move line.""",
+    'summary': """Massive upload of Lot / Serial Number to Warehouse Out lines.""",
     'description': """ Update the Lot/Serial Numbers in the lines of specific
     stock move using the import default process.
     """,
